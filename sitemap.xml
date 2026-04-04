@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
 <url><loc>https://helicoptersim.org/</loc></url>
-<url><loc>https://helicoptersim.org/services.html</loc></url>
+<url><loc>https://helicoptersim.org/infographs.html</loc></url>
 <url><loc>https://helicoptersim.org/what.html</loc></url>
-<url><loc>https://helicoptersim.org/projects.html</loc></url>
+<url><loc>https://helicoptersim.org/ecosystem.html</loc></url>
 <url><loc>https://helicoptersim.org/about.html</loc></url>
 <url><loc>https://helicoptersim.org/Data/hospitals.html</loc></url>
 <url><loc>https://helicoptersim.org/Data/stat-medevac.html</loc></url>
@@ -11,7 +11,6 @@
 <url><loc>https://helicoptersim.org/Data/medical-conditions.html</loc></url>
 <url><loc>https://helicoptersim.org/Data/users.html</loc></url>
 <url><loc>https://helicoptersim.org/Data/flight-log.html</loc></url>
-<url><loc>https://helicoptersim.org/Data/flight-log-1.html</loc></url>
 <url><loc>https://helicoptersim.org/Login/login.html</loc></url>
 <url><loc>https://helicoptersim.org/Login/signup.html</loc></url>
 <url><loc>https://helicoptersim.org/blog-index.php</loc></url>
